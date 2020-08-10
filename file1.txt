@@ -1,2 +1,5 @@
 file1 - init
+
 change
+
+change second
